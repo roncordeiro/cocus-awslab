@@ -6,6 +6,8 @@
 *.tfstate.*
 *.terraform
 *.terraform.lock.hcl
+*.DS_Store
+*.idea
 
 # Crash log files
 crash.log
