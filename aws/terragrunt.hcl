@@ -15,7 +15,7 @@ remote_state {
     region         = "eu-west-2"
     encrypt        = true
     dynamodb_table = "awslab-terraform-bcp"
-    profile        = "protofire-devops"
+    profile        = "cocus-devops"
   }
 }
 

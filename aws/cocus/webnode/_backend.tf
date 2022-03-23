@@ -5,7 +5,7 @@ terraform {
     dynamodb_table = "awslab-terraform-bcp"
     encrypt        = true
     key            = "aws/cocus/webnode/terraform.tfstate"
-    profile        = "protofire-devops"
+    profile        = "cocus-devops"
     region         = "eu-west-2"
   }
 }
